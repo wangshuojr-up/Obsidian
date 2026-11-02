@@ -1,0 +1,21 @@
+# Obsidian 每台机器各自维护的界面状态
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# 回收站与系统临时文件
+.trash/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+~$*
+
+# 大型媒体文件不纳入版本库（如有需要再单独用 Git LFS）
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.mp3
+*.m4a
